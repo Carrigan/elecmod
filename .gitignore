@@ -1,0 +1,8 @@
+# Library Autosaves
+*.l#*
+
+# Model Autosaves
+*.skb
+
+
+
